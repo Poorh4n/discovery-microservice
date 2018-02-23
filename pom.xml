@@ -6,6 +6,7 @@
     <artifactId>discovery-microservice</artifactId>
     <version>0.1.0</version>
     <packaging>jar</packaging>
+    <groupId>org.kbastani</groupId>
 
 
     <properties>
